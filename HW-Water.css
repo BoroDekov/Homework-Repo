@@ -26,4 +26,5 @@ tbody {
 
 p {
     text-align: justify; margin-left: 20px ;margin-right: 20px;
+    columns: 250px 3;column-gap: 50px;
 }
