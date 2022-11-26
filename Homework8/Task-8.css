@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: rgb(196, 181, 163);
+}
+h1,h2,h3{
+    text-align: center;
+    font-family:cursive ;
+    font-style: italic;
+}
